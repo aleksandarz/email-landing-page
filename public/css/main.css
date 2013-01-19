@@ -1,5 +1,6 @@
 body, html {
-  background-image: url("images/pattern15.png");
+  background-image: url("img/pattern15.png") top left repeat;
+  background-position: top left;
 }
 
 body {
