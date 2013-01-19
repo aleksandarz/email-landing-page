@@ -5,8 +5,8 @@ require 'hominid' # MailChimp
 configure do
 
   # MailChimp configuration: ADD YOUR OWN ACCOUNT INFO HERE!
-  set :mailchimp_api_key, "YOUR MAILCHIMP API KEY HERE"
-  set :mailchimp_list_name, "YOUR MAILCHIMP LIST NAME HERE"
+  set :mailchimp_api_key, "98a4f75e49598eb5a3af403d11db121c-us6"
+  set :mailchimp_list_name, "Landing"
 
 end
 
