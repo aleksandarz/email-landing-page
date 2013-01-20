@@ -14,7 +14,8 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <link rel="stylesheet" href="/css/normalize.css">
-        
+        <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+        <link rel="stylesheet" href="/css/vendor/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="/css/vendor/bootstrap.min.css">
         <link rel="stylesheet" href="/css/main.css">
         <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
@@ -47,6 +48,8 @@
                         <div id="error" style="display: none;">Съжеляваме, но не можем да валидираме емайла Ви. Опитайте пак</div>
                     </div>
                     <form action="/signup">
+                    	<input id="FNAME" name="FNAME" type="text" placeholder="Име"/>
+                   	    <input id="LNAME" name="LNAME" type="text" placeholder="Фамилия"/>
                         <input id="email" name="email" type="text" placeholder="Напишете Вашия Емайл тук"/>
                         <input type="submit" value="Изпрати"/>
                         </button>
