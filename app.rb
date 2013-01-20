@@ -16,8 +16,6 @@ end
 
 post '/signup' do
   email = params[:email]
-  FNAME = params[:FNAME]
-  LNAME = params[:LNAME]
   unless email.nil? || email.strip.empty?
     mailchimp = Hominid::API.new(settings.mailchimp_api_key)
     list_id = mailchimp.find_list_id_by_name(settings.mailchimp_list_name)
