@@ -3643,10 +3643,11 @@ input[type="submit"].btn.btn-mini {
   overflow: visible;
 }
 .navbar .brand {
+  font-family: Audiowide;
   float: left;
   display: block;
   padding: 10px 20px 10px;
-  margin-left: 20px;
+  margin-left: 15px;
   font-size: 20px;
   font-weight: 200;
   color: #777777;
