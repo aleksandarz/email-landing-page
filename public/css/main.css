@@ -5116,17 +5116,3 @@ a.badge:hover {
 .affix {
   position: fixed;
 }
-.btn-service-auth:hover{text-decoration:none;color:#fff}
-.btn-service-auth:visited{color:#fff}.btn-service-auth:active{color:#fff}
-.btn-service-auth 
-.auth-ico{position:absolute}
-.btn-twitter-auth
-.auth-ico{width:26px;height:20px;margin-left:-35px;background:url("/img/icon_twitter.png") no-repeat}
-.btn-facebook-auth .auth-ico{width:18px;height:18px;margin-left:-30px;background:url("/img/icon_facebook.png") no-repeat}
-.btn-twitter-auth{background-position:10px 10px;background-repeat:no-repeat;margin:0 0 10px;background:#1ab9f0;background:-moz-linear-gradient(top, #1ab9f0 0%, #1ea7e7 50%, #229ae1 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #1ab9f0), color-stop(50%, #1ea7e7), color-stop(100%, #229ae1));background:-webkit-linear-gradient(top, #1ab9f0 0%, #1ea7e7 50%, #229ae1 100%);background:-o-linear-gradient(top, #1ab9f0 0%, #1ea7e7 50%, #229ae1 100%);background:-ms-linear-gradient(top, #1ab9f0 0%, #1ea7e7 50%, #229ae1 100%);background:linear-gradient(to bottom, #1ab9f0 0%, #1ea7e7 50%, #229ae1 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1ab9f0', endColorstr='#229ae1',GradientType=0 );-webkit-box-shadow:0px 1px #FFF;box-shadow:0px 1px #FFF}.btn-twitter-auth:hover{background:-moz-linear-gradient(top, #10ade5 0%, #1a92d6 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #10ade5), color-stop(100%, #1a92d6));background:-webkit-linear-gradient(top, #10ade5 0%, #1a92d6 100%);background:-o-linear-gradient(top, #10ade5 0%, #1a92d6 100%);background:-ms-linear-gradient(top, #10ade5 0%, #1a92d6 100%);background:linear-gradient(top, #10ade5 0%, #1a92d6 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#10ADE5', endColorstr='#1A92D6',GradientType=0 )}
-.btn-facebook-auth{background-position:10px 8px;background-repeat:no-repeat;margin:0 0 10px;background:#5771A7;background:-moz-linear-gradient(top, #5771a7 0%, #3b5998 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #5771a7), color-stop(100%, #3b5998));background:-webkit-linear-gradient(top, #5771a7 0%, #3b5998 100%);background:-o-linear-gradient(top, #5771a7 0%, #3b5998 100%);background:-ms-linear-gradient(top, #5771a7 0%, #3b5998 100%);background:linear-gradient(top, #5771a7 0%, #3b5998 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5771A7', endColorstr='#3B5998',GradientType=0 );-webkit-box-shadow:0px 1px #FFF;box-shadow:0px 1px #FFF}.btn-facebook-auth:hover{background:-moz-linear-gradient(top, #48629b 0%, #34518e 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #48629b), color-stop(100%, #34518e));background:-webkit-linear-gradient(top, #48629b 0%, #34518e 100%);background:-o-linear-gradient(top, #48629b 0%, #34518e 100%);background:-ms-linear-gradient(top, #48629b 0%, #34518e 100%);background:linear-gradient(top, #48629b 0%, #34518e 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#48629B', endColorstr='#34518E',GradientType=0 )}
-.btn-twitter-auth-front{opacity:0.4;filter:alpha(opacity=40)}
-.btn-twitter-auth-front:hover{opacity:1;filter:alpha(opacity=100)}
-.btn-facebook-auth-front{opacity:0.4;filter:alpha(opacity=40)}
-.btn-facebook-auth-front:hover{opacity:1;filter:alpha(opacity=100)}#error_explanation h2{font-size:16px}#error_explanation li{font-size:14px}
-.show_small{width:70px}
