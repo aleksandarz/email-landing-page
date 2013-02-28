@@ -3600,6 +3600,8 @@ input[type="submit"].btn.btn-mini {
   cursor: default;
 }
 .navbar {
+  margin-left: 400px;
+  margin-right: 400px;
   overflow: visible;
   margin-bottom: 20px;
   *position: relative;
@@ -3648,10 +3650,11 @@ input[type="submit"].btn.btn-mini {
   display: block;
   padding: 10px 20px 10px;
   margin-left: 15px;
+  margin-right: 40px;
   font-size: 20px;
   font-weight: 200;
   color: #777777;
-  text-shadow: 0 1px 0 #ffffff;
+  text-shadow: 0 2px 0 #ffffff;
 }
 .navbar .brand:hover {
   text-decoration: none;
@@ -5077,14 +5080,15 @@ a.badge:hover {
   margin-bottom: 0;
 }
 .hero-unit {
-  width: 800px;
-  padding: 60px;
+  padding: 40px 40px 40px;
+  margin-left: 400px;
+  margin-right: 400px;
   margin-bottom: 30px;
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #fbfafa;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
