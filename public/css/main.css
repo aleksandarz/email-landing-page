@@ -3643,14 +3643,14 @@ input[type="submit"].btn.btn-mini {
   overflow: visible;
 }
 .navbar .brand {
+  left:auto;
+  right:auto;
   font-family: Audiowide;
-  float: left;
   display: block;
   max-height: 40px;
   overflow: visible;
   padding-top: 0px;
   padding-bottom: 0px;
-  margin-left: 150px;
   font-size: 20px;
   font-weight: 20;
   color: #777777;
@@ -5081,10 +5081,6 @@ a.badge:hover {
 }
 .hero-unit {
   padding: 40px 40px 40px;
-  margin-left: 300px;
-  margin-right: 300px;
-  margin-bottom: 10px;
-  margin-top: 10;
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
